@@ -17,4 +17,4 @@ npm run dev
 
 Abre http://localhost:5173 en el navegador.
 
-Cada push a `main` compila el sitio y lo publica en GitHub Pages. Si la página no aparece, en el repositorio abre **Settings → Pages → Build and deployment → Source** y elige **GitHub Actions**.
+Cada push a `main` compila el sitio y lo publica en GitHub Pages con GitHub Actions. Si la página no aparece, en el repositorio abre **Settings → Pages → Build and deployment → Source** y elige **GitHub Actions**.
